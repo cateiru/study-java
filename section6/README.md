@@ -13,6 +13,6 @@
 ## 演習
 
 - 正規
-  - 7818b4012aeadf09e31c8780cf9d48255eb89f4a
+  - [7818b4012aeadf09e31c8780cf9d48255eb89f4a](https://github.com/yuto51942/study-java/tree/7818b4012aeadf09e31c8780cf9d48255eb89f4a)
 - パワーアップバージョン
-  - 759ea079f4aef9c46ace9891b511d7964b5102d8
+  - [759ea079f4aef9c46ace9891b511d7964b5102d8](https://github.com/yuto51942/study-java/tree/759ea079f4aef9c46ace9891b511d7964b5102d8)
