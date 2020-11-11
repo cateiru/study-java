@@ -33,10 +33,10 @@ class Car {
 
   // --- 自動車の仕様を表示するメソッド---//
   void putSpec() {
-    System.out.println("車名 : " + this.name);
-    System.out.println("車幅 : " + this.width + "mm");
-    System.out.println("車高 : " + this.height + "mm");
-    System.out.println("車長 : " + this.length + "mm");
+    System.out.println("* 車名 : " + this.name);
+    System.out.println("* 車幅 : " + this.width + "mm");
+    System.out.println("* 車高 : " + this.height + "mm");
+    System.out.println("* 車長 : " + this.length + "mm");
   }
 
   // --- X軸方向にdx, Y軸方向にdy に動かすメソッド ---//
