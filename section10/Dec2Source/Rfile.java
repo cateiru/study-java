@@ -19,7 +19,6 @@ public class Rfile {
     while (cont) {
       try {
         int n = infile.read(buff); // ファイルからの読み込み
-        System.out.println(n);
         if (n != -1) {
           System.out.write(buff, 0, n); // System.outへの書き出し
         } else {
