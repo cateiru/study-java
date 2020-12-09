@@ -8,6 +8,10 @@ public class Server0 {
     try {
       ServerSocket serverSocket = new ServerSocket(PORT);
 
+      System.out.printf(
+          "Start server:\n\tport=%d\n\thost=%s\n",
+          serverSocket.getLocalPort(), serverSocket.getInetAddress().getHostAddress());
+
       while (true) {
         Socket connect = serverSocket.accept();
 
